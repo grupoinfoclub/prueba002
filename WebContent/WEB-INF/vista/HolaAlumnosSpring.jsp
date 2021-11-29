@@ -7,7 +7,7 @@
 <title>RESPUESTA</title>
 </head>
 <body>
-<h2>Hola</h2>${param.nombreAlumno}. Bienvenido al Curso de Spring
+<h2>Hola ALUMNO</h2>${param.nombreAlumno}. Bienvenido al Curso de Spring
 <br>
 <!--  rutas relativas de dos formas -->
 <img alt="foto" src="${pageContext.request.contextPath}/recursos/imgs/foto.jpg" hight="140" width="140">

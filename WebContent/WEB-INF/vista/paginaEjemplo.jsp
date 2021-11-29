@@ -8,7 +8,7 @@
 </head>
 <body>
      <center>
-     <h1>HOLA MUNDO</h1>
+     <h1>HOLA MUNDO 2021</h1>
      <hr>
      <br><br>
      <table border="1">
@@ -19,7 +19,10 @@
      <tr>
      <td>IMPRESORA HP</td>
      <td>125€</td>
+     <td>IMPRESORA EPSON</td>
+     <td>125€</td>
      </tr>
+     
      </table>
      <br>
      <a href="muestraFormulario">Ir al Formulario</a> 
